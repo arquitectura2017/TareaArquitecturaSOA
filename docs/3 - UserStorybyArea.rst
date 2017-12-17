@@ -7,7 +7,7 @@ User Story by Areas
 +---------------------+--------------------------------------------------------+----------------------------------------------+
 | Como                | Quiero                                                 | De modo que                                  |    
 +=====================+========================================================+==============================================+
-| Profesor            | 1. Diseñar un Servicio Web.                            |1.1  que realice la operación de extraer      |
+| Profesor            | 1. Diseñar un Servicio Web.                            |1.1  realice la operación de extraer      |
 |                     |                                                        |     el texto de un documento pdf.            |
 | Alumno              | 2. El servicio web debe recibir el documento pdf y     |2.1  el método debe recibir una variable byte |
 |                     |    devolver el contenido como texto.                   |     con los datos y devolver un string texto.| 
@@ -20,7 +20,7 @@ User Story by Areas
 +=====================+========================================================+==============================================+
 | Profesor            | 1. Crear proyectos, actualizar nombres y eliminar      |                                              |
 |                     |    proyectos con todo su contenido.                    |                                              |
-| Alumno              | 2. Construir una aplicación web para crear proyectos.  | 2.1 realice que contenga una sección de      |
+| Alumno              | 2. Construir una aplicación web para crear proyectos.  | 2.1 contenga una sección de                  |
 |                     |                                                        |     proyectos (crear,eliminar,cambiar nombre)|
 +---------------------+--------------------------------------------------------+----------------------------------------------+
 |                     |                                                        |                                              |
