@@ -3,7 +3,7 @@ Vision & Objetives & Areas
 ==========================
 
 * Vision:
-**  Implementar un servicio que permita extraer el texto de documentos en formato PDF.
+*  Implementar un servicio que permita extraer el texto de documentos en formato PDF.
 
 +--------------------------------------------------------+-----------------------------------+
 | Objetivos                                              | Areas                             |
