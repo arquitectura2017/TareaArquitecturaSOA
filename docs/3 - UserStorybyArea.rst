@@ -12,9 +12,6 @@ User Story by Areas
 |                     |    devolver el contenido como texto.                   |     con los datos y devolver un string texto.| 
 |                     |                                                        |     Y el lenjuage de Programación Java.      |                                       | 
 +---------------------+--------------------------------------------------------+----------------------------------------------+
-+---------------------+--------------------------------------------------------+----------------------------------------------+
-| Como                | Quiero                                                 | De modo que                                  |    
-+=====================+========================================================+==============================================+
 | Profesor            | 1. Crear proyectos, actualizar nombres y eliminar      |                                              |
 |                     |    proyectos con todo su contenido.                    |                                              |
 | Alumno              | 2. Construir una aplicación web para crear proyectos.  | 2.1 contenga una sección de                  |
