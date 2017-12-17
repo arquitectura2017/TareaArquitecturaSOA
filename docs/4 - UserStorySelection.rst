@@ -1,0 +1,28 @@
+===================
+User Story by Areas
+===================
+
+
++---------------------+--------------------------------------------------------+
+| Area                | User Story                                             |
++=====================+========================================================+
+| Componente Cloud    | 1. Diseñar un Servicio Web que permita extraer el      |
+|                     |    texto de un documento pdf en lenjuage de            |
+|                     |    Programación en Java.                               | 
+|                     | 2. El servicio web debe recibir el documento pdf y     |
+|                     |    devolver el contenido como texto.                   |
++---------------------+--------------------------------------------------------+
+| Servicio online     | 1. Crear proyectos, actualizar nombres y eliminar      |
+|                     |    proyectos con todo su contenido.                    |
+|                     | 2. Cada proyecto puede ser estructurado en paquetes de |
+|                     |    archivos (grupos de archivos), definidos por el     |  
+|                     |    propio usuario.                                     |
+|                     | 3. Cada Paquete puede contener 1 o más archivos.       |
+|                     | 4. Al hacer un click en en un archivo, la aplicación   | 
+|                     |    enviará el archivo a un servicio web, el cual       |
+|                     |    extraerá el texto del documento, y retornará este   |
+|                     |    para ser presentado en la pantalla.                 |
+|                     | 5. Tanto los proyectos como la lista de archivos,      |
+|                     |    deben estar almacenados en una base de datos.       |
++---------------------+--------------------------------------------------------+
+
