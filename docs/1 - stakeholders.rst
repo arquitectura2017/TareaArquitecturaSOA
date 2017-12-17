@@ -2,9 +2,10 @@
 Stakeholders
 ========
 
-Los Stakeholders son los usuarios que utilizaran el Sistema
-
+Los Stakeholders son los interesados en el Sistema.
 Sistema: aplicación que procesara un documento PDF extrayendo el texto 
 de dicho documento.
 
-Usuarios: todos usuarios que requieren procesar documento pdf en el Sistema
+Usuarios: todos usuarios que requieren procesar documento pdf en el Sistema.
+Profesor: Encomienda la actividad a desarrollar.
+Alumno: Realizan la producción del Software.
