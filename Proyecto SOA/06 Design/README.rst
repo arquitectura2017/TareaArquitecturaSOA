@@ -1,5 +1,0 @@
-Documentación Arquitectural Proyecto Semestral
-========
-
-
-
