@@ -2,17 +2,23 @@
 User Story by Areas
 ===================
 
+* Area: Componente Cloud 
 
-+---------------------+--------------------------------------------------------+
-| Area                | User Story                                             |
-+=====================+========================================================+
-| Componente Cloud    | 1. Diseñar un Servicio Web que permita extraer el      |
-|                     |    texto de un documento pdf en lenjuage de            |
-|                     |    Programación en Java.                               | 
-|                     | 2. El servicio web debe recibir el documento pdf y     |
-|                     |    devolver el contenido como texto.                   |
-+---------------------+--------------------------------------------------------+
-| Servicio online     | 1. Crear proyectos, actualizar nombres y eliminar      |
++---------------------+--------------------------------------------------------+--------------------------------------------+
+| Como                | Quiero                                                 | De modo que                                |    
++=====================+========================================================+============================================+
+| Profesor            | 1. Diseñar un Servicio Web                             |1.1  que permita extraer el                 |
+|                     |                                                        | texto de un documento pdf en lenjuage de   |
+|                     |                                                        | Programación en Java.                      |
+| Alumno              | 2. El servicio web debe recibir el documento pdf y     |2.1  el método de recibir una variable byte |
+|                     |    devolver el contenido como texto.                   | con los datos y devolver un string texto.  |
++---------------------+--------------------------------------------------------+--------------------------------------------+
+
+* Area: Servicio online 
++---------------------+--------------------------------------------------------+------------------------------------+
+| Como                | Quiero                                                 | De modo que                        |    
++=====================+========================================================+====================================+
+| Profesor            | 1. Crear proyectos, actualizar nombres y eliminar      |
 |                     |    proyectos con todo su contenido.                    |
 |                     | 2. Cada proyecto puede ser estructurado en paquetes de |
 |                     |    archivos (grupos de archivos), definidos por el     |  
