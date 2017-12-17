@@ -22,6 +22,7 @@ User Story by Areas
 |                     |    proyectos con todo su contenido.                    |                                              |
 | Alumno              | 2. Construir una aplicación web para crear proyectos.  | 2.1 realice que contenga una sección de      |
 |                     |                                                        |     proyectos (crear,eliminar,cambiar nombre)|
++---------------------+--------------------------------------------------------+----------------------------------------------+
 |                     |                                                        |                                              |
 | Profesor            | 2. Cada proyecto puede ser estructurado en paquetes de |                                              |
 |                     |    archivos (grupos de archivos), definidos por el     |                                              |  
@@ -29,10 +30,12 @@ User Story by Areas
 | Alumno              | 3. Elaborar una Tabla de Proyectos.                    | 3.1 Se debe almacenar los proyectos en       | 
 |                     |                                                        |     la Base de datos.                        |
 |                     |                                                        |                                              |
++---------------------+--------------------------------------------------------+----------------------------------------------+
 | Profesor            | 4. Cada Paquete puede contener 1 o más archivos.       |                                              |
 | Alumno              | 5. Elaborar una segunda Tabla de Archivos.             | 5.1 Hay que relacionar la Tabla Proyectos con|
 |                     |                                                        |     la tabla Archivo (uno a muchos) .        |
 |                     |                                                        |                                              |
++---------------------+--------------------------------------------------------+----------------------------------------------+
 | Profesor            | 6. Al hacer un click en un archivo, la aplicación      |                                              | 
 |                     |    enviará el archivo a un servicio web, el cual       |                                              |
 |                     |    extraerá el texto del documento, y retornará este   |                                              |
@@ -41,12 +44,14 @@ User Story by Areas
 |                     |                                                        |     texto extraído por el servicio web.      |
 |                     |                                                        |     En formato texto.                        |
 |                     |                                                        |                                              |
++---------------------+--------------------------------------------------------+----------------------------------------------+
 | Profesor            | 6. Tanto los proyectos como la lista de archivos,      |                                              |
 |                     |    deben estar almacenados en una base de datos.       |                                              |
 | Alumno              | 8. Diseñar y elaborar una Base de Datos.               | 8.1 Contenga la información de Nombre de     |
 |                     |                                                        |     Proyecto, Estado, Fecha. y para la tabla |
 |                     |                                                        |     Archivo los atributos nombre del Archivo,|
 |                     |                                                        |     fecha.                                   |
++---------------------+--------------------------------------------------------+----------------------------------------------+
 |                     |                                                        |                                              |
 | Alumno              | 9. Crear botones para las principales funcionalidades. | 9.1 Botones Crear, Eliminar, Actualizar      |
 |                     | 10. Control el evento click al seleccionar un          |     Proyectos.                               |
