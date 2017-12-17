@@ -12,45 +12,45 @@ User Story by Areas
 |                     |                     |    devolver el contenido como texto.                   |     con los datos y devolver un string texto.| 
 |                     |                     |                                                        |     Y el lenjuage de Programación Java.      | 
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+
-|Servicio online      | Profesor            | 1. Crear proyectos, actualizar nombres y eliminar      |                                              |
+|Servicio online      | Profesor            | 3. Crear proyectos, actualizar nombres y eliminar      |                                              |
 |                     |                     |    proyectos con todo su contenido.                    |                                              |
-|                     | Alumno              | 2. Construir una aplicación web para crear proyectos.  | 2.1 contenga una sección de                  |
+|                     | Alumno              | 4. Construir una aplicación web para crear proyectos.  | 4.1 contenga una sección de                  |
 |                     |                     |                                                        |     proyectos (crear,eliminar,cambiar nombre)|
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+
 |Servicio online      |                     |                                                        |                                              |
-|                     | Profesor            | 2. Cada proyecto puede ser estructurado en paquetes de |                                              |
+|                     | Profesor            | 5. Cada proyecto puede ser estructurado en paquetes de |                                              |
 |                     |                     |    archivos (grupos de archivos), definidos por el     |                                              |  
 |                     |                     |    propio usuario.                                     |                                              |
-|                     | Alumno              | 3. Elaborar una Tabla de Proyectos.                    | 3.1 Se debe almacenar los proyectos en       | 
+|                     | Alumno              | 6. Elaborar una Tabla de Proyectos.                    | 6.1 Se debe almacenar los proyectos en       | 
 |                     |                     |                                                        |     la Base de datos.                        |
 |                     |                     |                                                        |                                              |
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+
-|Servicio online      | Profesor            | 4. Cada Paquete puede contener 1 o más archivos.       |                                              |
-|                     | Alumno              | 5. Elaborar una segunda Tabla de Archivos.             | 5.1 Hay que relacionar la Tabla Proyectos con|
-|                     |                     |                                                        |     la tabla Archivo (uno a muchos) .        |
+|Servicio online      | Profesor            | 7. Cada Paquete puede contener 1 o más archivos.       |                                              |
+|                     | Alumno              | 8. Elaborar una segunda Tabla de Archivos.             | 8.1 Hay que relacionar la Tabla Proyectos con|
+|                     |                     |                                                        |     la tabla Archivo (uno a muchos).         |
 |                     |                     |                                                        |                                              |
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+
-|Servicio online      | Profesor            | 6. Al hacer un click en un archivo, la aplicación      |                                              | 
+|Servicio online      | Profesor            | 9. Al hacer un click en un archivo, la aplicación      |                                              | 
 |                     |                     |    enviará el archivo a un servicio web, el cual       |                                              |
 |                     |                     |    extraerá el texto del documento, y retornará este   |                                              |
 |                     |                     |    para ser presentado en la pantalla.                 |                                              |
-|                     | Alumno              | 7. Crear una área de presentación.                     | 7.1 se utilice para mostrar el resultado del |
-|                     |                     |                                                        |     texto extraído por el servicio web.      |
+|                     | Alumno              | 10. Crear una área de presentación.                    | 10.1 se utilice para mostrar el resultado    |
+|                     |                     |                                                        |     del texto extraído por el servicio web.  |
 |                     |                     |                                                        |     En formato texto.                        |
 |                     |                     |                                                        |                                              |
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+
-|Servicio online      | Profesor            | 6. Tanto los proyectos como la lista de archivos,      |                                              |
+|Servicio online      | Profesor            | 11. Tanto los proyectos como la lista de archivos,     |                                              |
 |                     |                     |    deben estar almacenados en una base de datos.       |                                              |
-|                     | Alumno              | 8. Diseñar y elaborar una Base de Datos.               | 8.1 Contenga la información de Nombre de     |
+|                     | Alumno              | 12. Diseñar y elaborar una Base de Datos.              | 12.1 Contenga la información de Nombre de    |
 |                     |                     |                                                        |     Proyecto, Estado, Fecha. y para la tabla |
 |                     |                     |                                                        |     Archivo los atributos nombre del Archivo,|
 |                     |                     |                                                        |     fecha.                                   |
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+
 |Servicio online      |                     |                                                        |                                              |
-|                     | Alumno              | 9. Crear botones para las principales funcionalidades. | 9.1 Botones Crear, Eliminar, Actualizar      |
-|                     |                     | 10. Controlar el evento click al seleccionar un        |     Proyectos.                               |
-|                     |                     |     Archivo.                                           | 9.2 se ejecute el servicio web.              |
-|                     |                     |                                                        |                                              |
+|                     | Alumno              | 13. Crear botones para las principales funcionalidades.| 13.1 Botones Crear, Eliminar, Actualizar     |
+|                     |                     | 14. Controlar el evento click al seleccionar un        |     Proyectos.                               |
+|                     |                     |     Archivo.                                           | 14.1 se ejecute el servicio web.             |
+|                     |                     | 15. El acceso libre a la aplicación.                   | 15.1 no require authentificación.            |
 |                     |                     |                                                        |                                              |
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+
 
