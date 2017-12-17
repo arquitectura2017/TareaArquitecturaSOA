@@ -1,12 +1,12 @@
 ===================
 User Story by Areas
 ===================
-*Area: Componente Cloud 
-===================
+
+
 +---------------------+--------------------------------------------------------+----------------------------------------------+
 | Como                | Quiero                                                 | De modo que                                  |    
 +=====================+========================================================+==============================================+
-| Profesor            | 1. Diseñar un Servicio Web.                            |1.1  realice la operación de extraer      |
+| Profesor            | 1. Diseñar un Servicio Web.                            |1.1  realice la operación de extraer          |
 |                     |                                                        |     el texto de un documento pdf.            |
 | Alumno              | 2. El servicio web debe recibir el documento pdf y     |2.1  el método debe recibir una variable byte |
 |                     |    devolver el contenido como texto.                   |     con los datos y devolver un string texto.| 
