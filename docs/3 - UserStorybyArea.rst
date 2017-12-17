@@ -40,7 +40,7 @@ User Story by Areas
 |                     |    enviará el archivo a un servicio web, el cual       |                                              |
 |                     |    extraerá el texto del documento, y retornará este   |                                              |
 |                     |    para ser presentado en la pantalla.                 |                                              |
-| Alumno              | 7. Creara una área de presentación.                    | 7.1 se utilice para mostrar el resultado del |
+| Alumno              | 7. Crear una área de presentación.                     | 7.1 se utilice para mostrar el resultado del |
 |                     |                                                        |     texto extraído por el servicio web.      |
 |                     |                                                        |     En formato texto.                        |
 |                     |                                                        |                                              |
@@ -54,7 +54,7 @@ User Story by Areas
 +---------------------+--------------------------------------------------------+----------------------------------------------+
 |                     |                                                        |                                              |
 | Alumno              | 9. Crear botones para las principales funcionalidades. | 9.1 Botones Crear, Eliminar, Actualizar      |
-|                     | 10. Control el evento click al seleccionar un          |     Proyectos.                               |
+|                     | 10. Controlar el evento click al seleccionar un        |     Proyectos.                               |
 |                     |     Archivo.                                           | 9.2 se ejecute el servicio web.              |
 |                     |                                                        |                                              |
 |                     |                                                        |                                              |
