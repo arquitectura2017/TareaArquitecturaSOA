@@ -4,13 +4,13 @@ User Story by Areas
 
 
 +---------------------+--------------------------------------------------------+----------------------------------------------+
-| Como                | Quiero                                                 | De modo que                                  |    
+| Como                | Quiero                                                 | De modo que                                  | 
 +=====================+========================================================+==============================================+
 | Profesor            | 1. Diseñar un Servicio Web.                            |1.1  realice la operación de extraer          |
 |                     |                                                        |     el texto de un documento pdf.            |
 | Alumno              | 2. El servicio web debe recibir el documento pdf y     |2.1  el método debe recibir una variable byte |
 |                     |    devolver el contenido como texto.                   |     con los datos y devolver un string texto.| 
-|                     |                                                        |     Y el lenjuage de Programación Java.      |                                       | 
+|                     |                                                        |     Y el lenjuage de Programación Java.      | 
 +---------------------+--------------------------------------------------------+----------------------------------------------+
 | Profesor            | 1. Crear proyectos, actualizar nombres y eliminar      |                                              |
 |                     |    proyectos con todo su contenido.                    |                                              |
