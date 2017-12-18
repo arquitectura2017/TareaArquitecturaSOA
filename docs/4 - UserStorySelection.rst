@@ -7,8 +7,8 @@ User Story Selection
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+----------------------------------------------+
 |Area                 | Como                | Quiero                                                 | De modo que                                  | Seleccionados                                |
 +=====================+=====================+========================================================+==============================================+==============================================+
-|Componente Cloud     | Profesor            | 1.  Una apliación web basada en estilo arquitectural   |1.1  realice la operación de extraer          |                                              |
-|                     |                     |     SOA                                                |     el texto de un documento pdf.            |                                              |
+|Componente Cloud     | Profesor            | 1.  Una apliación web basada en un estilo              |1.1  realice la operación de extraer          |                                              |
+|                     |                     |     arquitectural SOA                                  |     el texto de un documento pdf.            |                                              |
 |                     | Alumno              | 2. El servicio web debe recibir el documento pdf y     |2.1  el método debe recibir una variable byte |                                              |
 |                     |                     |    devolver el contenido como texto.                   |     con los datos y devolver un string texto.|                                              |
 |                     |                     |                                                        |     Y el lenjuage de Programación Java.      |                                              | 

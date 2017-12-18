@@ -3,7 +3,7 @@ Vision & Objetives & Areas
 ==========================
 
 * Vision:
-*  Implementar una aplicación basada en estilo arquitectónico SOA, que permita extraer el texto de documentos en formato PDF.
+*  Implementar una aplicación basada en un estilo arquitectónico SOA, que permita extraer el texto de documentos en formato PDF.
 
 +---------------------------------------------------+---------------------+
 | Objetivos                                         | Areas               |
@@ -12,6 +12,6 @@ Vision & Objetives & Areas
 |    el texto de un documento en formato pdf.       |                     |
 +---------------------------------------------------+---------------------+
 | 2. Elaborar un cliente de servicio web que permita| Servicio online     |
-|    crear yeliminar, actualizar los nombres de     |                     |
+|    crear, eliminar y actualizar los nombres de    |                     |
 |    proyectos con sus archivos pdf.                |                     |
 +---------------------------------------------------+---------------------+
