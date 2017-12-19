@@ -3,23 +3,23 @@ Design
 ===================
 
 
-* La Arquitectura Lógica:
-- Diagrama de Clases.
-- Diagrama de Estados. 
+* 1. La Arquitectura Lógica:
+1.1 Diagrama de Clases.
+1.2 Diagrama de Estados. 
 
 
-* La Vista de Procesos:
-- Requisitos no Funcionales
-- Diagrama de Procesos.
+* 2. La Vista de Procesos:
+2.1 Requisitos no Funcionales
+2.2 Diagrama de Procesos.
 
 
-* Vista de Desarrollo:
-- Estilo de capas para la vista de desarrollo.
+* 3. Vista de Desarrollo:
+3.1 Estilo de capas para la vista de desarrollo.
 
 
 
-* Arquitectura Física:
-- Requisitos no funcionales del sistema.
+* 4. Arquitectura Física:
+4.1 Requisitos no funcionales del sistema.
 
 
 
