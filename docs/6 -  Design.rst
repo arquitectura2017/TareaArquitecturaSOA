@@ -6,7 +6,7 @@ Design
 * 1. La Arquitectura Lógica:
 	1.1 Diagrama de Clases.
 
-	1.2 Diagrama de Estados. 
+	1.2 Diagrama de Secuencia. 
 
 
 * 2. La Vista de Procesos:
