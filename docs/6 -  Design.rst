@@ -8,7 +8,7 @@ Design
 		Url: 
 		
 	1.2 Diagrama de Secuencia. 
-		Url: https://drive.google.com/file/d/1lPZdLcJjTVy0euwAtTJq6r6Tf4oB0wfa/view?usp=sharing
+		Url: https://drive.google.com/file/d/1C_sAhhVmCPs9V95Tn-miHmVBSAw1cwtp/view?usp=sharing
 
 * 2. La Vista de Procesos:
 	2.1 Requisitos no Funcionales
