@@ -56,7 +56,8 @@ User Story by Areas
 |                     | Alumno              | 13. Crear botones para las principales funcionalidades.| 13.1 Botones Crear, Eliminar, Actualizar     |
 |                     |                     | 14. Controlar el evento click al seleccionar un        |     Proyectos.                               |
 |                     |                     |     Archivo.                                           | 14.1 se ejecute el servicio web.             |
-|                     |                     | 15. El acceso libre a la aplicación.                   | 15.1 no require authentificación.            |
-|                     |                     |                                                        |                                              |
+|                     |                     | 15. El acceso libre a la aplicación.                   | 15.1 require authentificación.               |
+|                     |                     | 16. Aplicar seguridad al Servicio Web.                 | 16.1 de tener un canal seguro con ssl.       |
+|                     |                     |                                                        | 16.2 aplicar un algoritmo de encriptación.   |
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+
 
