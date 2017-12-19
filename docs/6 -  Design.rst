@@ -5,7 +5,7 @@ Design
 
 * 1. La Arquitectura Lógica:
 	1.1 Diagrama de Clases.
-		Url: 
+		Url: https://drive.google.com/file/d/1Sq7mhAL0X2r4TbRZkivVqzAxFZ8meBiH/view?usp=sharing
 		
 	1.2 Diagrama de Secuencia. 
 		Url: https://drive.google.com/file/d/1C_sAhhVmCPs9V95Tn-miHmVBSAw1cwtp/view?usp=sharing
