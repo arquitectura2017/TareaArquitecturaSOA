@@ -10,7 +10,8 @@ Design
 		sistema debe de hacer, las funciones y servicios que se
 		han definido.
 
-		Vista Lógica: https://drive.google.com/file/d/1ICc347igvXIM9-voUf-bisMizP2YXs97/view?usp=sharing
+		Vista Lógica: 
+		.. image:: image/DiagramadePaquetes-WebService.PNG
 
 * 2. La Vista de Procesos:
 
@@ -40,7 +41,8 @@ Design
 		Los elementos definidos en la vista lógica se mapean a componentes de
 		software o de hardware.
 		
-		Vista Física: https://drive.google.com/file/d/188Ge_Bv10Dy7OVoJohB-RG1Esb1-Sj2a/view?usp=sharing
+		Vista Física: 
+		.. image:: image/DiagramadeDeployment-WebService.PNG
 
 
 
@@ -51,7 +53,8 @@ Design
 		existen las otras cuatro vistas.
 
 
-		Vista de Escenarios: https://drive.google.com/file/d/1YIaxk-6XaYq8LdWruGourr4AH8JPjF3A/view?usp=sharing
+		Vista de Escenarios: 
+		.. image:: image/DiagramaCasosdeUso.PNG
 		
 
 
