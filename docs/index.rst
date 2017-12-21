@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 
-Arquitectúra de Software 2017 - Universidad de La Frontera.
+Arquitectura de Software 2017 - Universidad de La Frontera.
 ==================================================
 
 Contents:
