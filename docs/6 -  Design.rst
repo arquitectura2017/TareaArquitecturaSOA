@@ -11,7 +11,8 @@ Design
 		han definido.
 
 		Vista Lógica: 
-		.. image:: image/DiagramadePaquetes-WebService.PNG
+		
+.. image:: image/DiagramadePaquetes-WebService.PNG
 
 * 2. La Vista de Procesos:
 
@@ -42,7 +43,8 @@ Design
 		software o de hardware.
 		
 		Vista Física: 
-		.. image:: image/DiagramadeDeployment-WebService.PNG
+		
+.. image:: image/DiagramadeDeployment-WebService.PNG
 
 
 
@@ -54,7 +56,8 @@ Design
 
 
 		Vista de Escenarios: 
-		.. image:: image/DiagramaCasosdeUso.PNG
+		
+.. image:: image/DiagramaCasosdeUso.PNG
 		
 
 
