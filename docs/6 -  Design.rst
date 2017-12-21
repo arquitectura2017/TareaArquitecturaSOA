@@ -10,11 +10,7 @@ Design
 		sistema debe de hacer, las funciones y servicios que se
 		han definido.
 
-	1.1 Diagrama de Clases.
-		Url: https://drive.google.com/file/d/1Sq7mhAL0X2r4TbRZkivVqzAxFZ8meBiH/view?usp=sharing
-		
-	1.2 Diagrama de Secuencia. 
-		Url: https://drive.google.com/file/d/1C_sAhhVmCPs9V95Tn-miHmVBSAw1cwtp/view?usp=sharing
+		Vista Lógica: https://drive.google.com/file/d/1ICc347igvXIM9-voUf-bisMizP2YXs97/view?usp=sharing
 
 * 2. La Vista de Procesos:
 
@@ -23,9 +19,7 @@ Design
 		operación identificada en cada clase identificada en la vista lógica. La vista se centra
 		por tanto en la concurrencia y distribución de procesos.
 		
-	2.1 Requisitos no Funcionales
-
-	2.2 Diagrama de Procesos.
+		Vista de Procesos: 
 
 
 * 3. Vista de Desarrollo:
@@ -34,7 +28,7 @@ Design
 		de software en componentes, y muestra las dependencias entre estos
 		componentes.
 		
-	3.1 Estilo de capas para la vista de desarrollo.
+		Vista de Desarrollo: 
 
 
 
@@ -46,7 +40,7 @@ Design
 		Los elementos definidos en la vista lógica se mapean a componentes de
 		software o de hardware.
 		
-	4.1 Requisitos no funcionales del sistema.
+		Vista Física: https://drive.google.com/file/d/188Ge_Bv10Dy7OVoJohB-RG1Esb1-Sj2a/view?usp=sharing
 
 
 
@@ -57,7 +51,7 @@ Design
 		existen las otras cuatro vistas.
 
 
-		Diagrama de Casos de Uso.
+		Vista de Escenarios: https://drive.google.com/file/d/1YIaxk-6XaYq8LdWruGourr4AH8JPjF3A/view?usp=sharing
 		
 
 
