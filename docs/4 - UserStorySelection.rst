@@ -2,7 +2,7 @@
 User Story Selection
 ===================
 
-* Se desarrolla un primer prototipo que implementara las siguientes historias de usuario.
+* Se desarrollará un primer prototipo que implementará las siguientes historias de usuario.
 
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+----------------------------------------------+
 |Area                 | Como                | Quiero                                                 | De modo que                                  | Seleccionados                                |
