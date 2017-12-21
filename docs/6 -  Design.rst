@@ -22,7 +22,8 @@ Design
 		por tanto en la concurrencia y distribución de procesos.
 		
 		Vista de Procesos: 
-
+		
+.. image:: image/DiagramaProceso.PNG
 
 * 3. Vista de Desarrollo:
 
