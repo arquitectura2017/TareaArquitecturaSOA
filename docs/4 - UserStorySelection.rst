@@ -27,5 +27,5 @@ User Story Selection
 |Servicio online      | Alumno              | 14. Controlar el evento click al seleccionar un        |                                              |                                              |
 |                     |                     |     Archivo.                                           | 14.1 se ejecute el servicio web.             | Alta Prioridad                               |
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+----------------------------------------------+
-|Servicio online      | Alumno              | 15. El acceso libre a la aplicación.                   | 15.1 require authentificación.               | Alta Prioridad                               |
+|Servicio online      | Alumno              | 15. El acceso libre a la aplicación.                   | 15.1 no require authentificación.            | Alta Prioridad                               |
 +---------------------+---------------------+--------------------------------------------------------+----------------------------------------------+----------------------------------------------+
