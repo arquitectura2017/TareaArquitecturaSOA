@@ -13,7 +13,7 @@ Primer Prototipo:
 .. image:: image/Mockup_ClienteWeb_Prototipo_01.PNG
 
 	
-	El usuario tiene como primera opción seleccionar el Documento para extraer el Texto, 
+	El usuario tiene como primera opción seleccionar el Documento para extraer el Texto. 
 	lo que habre una ventana windows para elegir el documento pdf, y a continuacion debe
 	procesar el documento.
 
