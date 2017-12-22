@@ -21,6 +21,8 @@ El producto de software se desarrollo bajo una Metodología de Arquitectura ad-h
 	Servidor GlassFish 5.0
 	
 	Url WSDL: http://env-6829647.jelastic.saveincloud.net/pdftotext?WSDL
+	
+	Url Web Service: http://env-6829647.jelastic.saveincloud.net/
 
 
 * Testing:
