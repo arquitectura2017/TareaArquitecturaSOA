@@ -17,11 +17,14 @@ Primer Prototipo:
 	lo que habre una ventana windows para elegir el documento pdf, y a continuacion debe
 	procesar el documento.
 
+
 .. image:: image/Mockup_ClienteWeb_Prototipo_02.PNG
 
 	Posteriormente el Servicio Online PDF le mostrara el Texto.
+
 	
 .. image:: image/Mockup_ClienteWeb_Prototipo_03.PNG
+
 
 Prototipo final:
 
