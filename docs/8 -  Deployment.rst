@@ -3,7 +3,7 @@ Deployment
 ===================
 
 
-Las aplicaciones se desplegaron en un ambiente cloud disponble en Internet https://app.jelastic.saveincloud.net/.
+Las aplicaciones se desplegaron en un ambiente cloud disponible en Internet https://app.jelastic.saveincloud.net/.
 
 * La aplicación web denominada "Servicio Online PDF" esta alojada en el siguiente ambiente:
 
