@@ -12,10 +12,11 @@ Diseño de Interfaces del Servicio Online:
 	
 .. image:: image/Mockup_ClienteWeb_Prototipo_01.PNG
 
+
 	El usuario tiene como primera opción seleccionar el Documento para extraer el Texto, 
 	lo que habre una ventana windows para elegir el documento pdf, y a continuacion debe
 	procesar el documento.
-	
+
 .. image:: image/Mockup_ClienteWeb_Prototipo_02.PNG
 
 	Posteriormente el Servicio Online PDF le mostrara el Texto.
