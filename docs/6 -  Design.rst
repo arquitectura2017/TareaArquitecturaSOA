@@ -58,6 +58,7 @@ Design
 
 		Vista de Escenarios: 
 		
+.. image:: imagecodetouml/DiagramaCasosdeUso.PNG		
 .. image:: image/DiagramaCasosdeUso.PNG
 		
 
