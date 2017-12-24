@@ -14,6 +14,7 @@ Design
 		
 .. image:: image/DiagramadePaquetes-WebService.PNG
 
+
 * 2. La Vista de Procesos:
 
 		Se tratan algunos requisitos no funcionales. Ejecución, disponibilidad, tolerancia a
