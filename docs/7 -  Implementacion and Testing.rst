@@ -24,7 +24,8 @@ El producto de software se desarrollo bajo una Metodología de Arquitectura ad-h
 	
 	Url Web Service: http://env-6829647.jelastic.saveincloud.net/
 
-
+.. image:: image/implementacionWebService01.PNG
+	
 * Testing:
 
 Casos de Prueba
