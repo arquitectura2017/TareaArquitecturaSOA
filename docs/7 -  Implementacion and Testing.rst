@@ -14,7 +14,7 @@ El producto de software se desarrollo bajo una Metodología de Arquitectura ad-h
 	
 	Url: http://env-2198266.jelastic.saveincloud.net/
 
-.. image:: image/implementacionWebService01.PNG
+.. image:: image/implementacionServicioOnlinePDF01.PNG
 	
 * Componente Clound: Web Service
 
@@ -26,7 +26,7 @@ El producto de software se desarrollo bajo una Metodología de Arquitectura ad-h
 	
 	Url Web Service: http://env-6829647.jelastic.saveincloud.net/
 
-.. image:: image/implementacionWebService02.PNG
+.. image:: image/implementacionWebService01.PNG
 	
 * Testing:
 
