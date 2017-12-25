@@ -22,7 +22,9 @@ Design
 		por tanto en la concurrencia y distribución de procesos.
 		
 		Vista de Procesos: 
-		
+
+.. image:: imagecodetouml/DiagramaProceso.PNG	
+
 .. image:: image/DiagramaProceso.PNG
 
 * 3. Vista de Desarrollo:
@@ -58,7 +60,8 @@ Design
 
 		Vista de Escenarios: 
 		
-.. image:: imagecodetouml/DiagramaCasosdeUso.PNG		
+.. image:: imagecodetouml/DiagramaCasosdeUso.PNG
+		
 .. image:: image/DiagramaCasosdeUso.PNG
 		
 
