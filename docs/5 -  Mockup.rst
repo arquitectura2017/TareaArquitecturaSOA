@@ -25,6 +25,19 @@ Posteriormente el Servicio Online PDF le mostrara el Texto.
 	
 .. image:: image/Mockup_ClienteWeb_Prototipo_03.PNG
 
+Segundo Prototipo:
+
+El segundo prototipo se desarrollo localmente, y tiene se acerca a la solución final.
+
+.. image:: imageprototipo02/Prototipo02_01.PNG
+
+.. image:: imageprototipo02/Prototipo02_02.PNG
+
+.. image:: imageprototipo02/Prototipo02_03.PNG
+
+.. image:: imageprototipo02/Prototipo02_04.PNG
+
+.. image:: imageprototipo02/Prototipo02_05.PNG
 
 Prototipo final:
 
