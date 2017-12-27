@@ -6,7 +6,9 @@ Mockup
 
 Diseño de Interfaces del Servicio Online:
 
-Primer Prototipo:
+Primer Prototipo: 
+
+En esta seccion se ilustra los formularios que se desarrollan en el primer prototipo el cual es el desarrollado en este trabajo.
 
 En presente formulario web muestra el ingreso al portal.
 	
@@ -27,7 +29,7 @@ Posteriormente el Servicio Online PDF le mostrara el Texto.
 
 Segundo Prototipo:
 
-El segundo prototipo se desarrollo localmente, y tiene se acerca a la solución final.
+El segundo prototipo se desarrolla localmente, y se acerca en funcionalidad a la solución final.
 
 .. image:: imageprototipo02/Prototipo02_01.PNG
 
