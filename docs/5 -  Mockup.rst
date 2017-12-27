@@ -33,13 +33,13 @@ El segundo prototipo se desarrolla localmente, y se acerca en funcionalidad a la
 
 .. image:: imageprototipo02/Prototipo02-01.PNG
 
-.. image:: imageprototipo02/Prototipo02_02.PNG
+.. image:: imageprototipo02/Prototipo02-02.PNG
 
-.. image:: imageprototipo02/Prototipo02_03.PNG
+.. image:: imageprototipo02/Prototipo02-03.PNG
 
-.. image:: imageprototipo02/Prototipo02_04.PNG
+.. image:: imageprototipo02/Prototipo02-04.PNG
 
-.. image:: imageprototipo02/Prototipo02_05.PNG
+.. image:: imageprototipo02/Prototipo02-05.PNG
 
 Prototipo final:
 
