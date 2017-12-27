@@ -31,7 +31,7 @@ Segundo Prototipo:
 
 El segundo prototipo se desarrolla localmente, y se acerca en funcionalidad a la solución final.
 
-.. image:: imageprototipo02/Prototipo02_01.PNG
+.. image:: imageprototipo02/Prototipo02-01.PNG
 
 .. image:: imageprototipo02/Prototipo02_02.PNG
 
