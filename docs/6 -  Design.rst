@@ -24,6 +24,8 @@ Design
 		
 		Vista de Procesos: 
 
+.. image:: imagecodetouml/DiagramaProceso.PNG
+		
 .. image:: image/DiagramaProceso.PNG
 
 * 3. Vista de Desarrollo:
@@ -33,8 +35,6 @@ Design
 		componentes.
 		
 		Vista de Desarrollo: 
-
-.. image:: imagecodetouml/DiagramaDesarrollo.PNG	
 		
 .. image:: image/DiagramaDesarrollo.PNG
 
