@@ -14,6 +14,13 @@ Design
 		
 .. image:: image/DiagramadePaquetes-WebService.PNG
 
+		Se ilustra la vista de arquitectura donde se pueden distingir los siguientes elementos:
+		
+		La Aplicacion cliente que es brouser a utilizar.
+		La aplicación web denominada Servicio Online PDF, la cual esta constituida por los siguientes elementos:
+		index.jsp que es la vista de presentacióm, la lógina con los componentes: fileuploadservlet,
+		servicios que contiene la llamada al servicio web.
+		El Servicio Servicio Web con los componentes de recibir archivo y convertir el documento a texto.
 
 * 2. La Vista de Procesos:
 
@@ -28,6 +35,7 @@ Design
 		
 .. image:: image/DiagramaProceso.PNG
 
+		
 * 3. Vista de Desarrollo:
 
 		En esta vista se va a mostrar principalmente como está dividido el sistema
@@ -38,7 +46,9 @@ Design
 		
 .. image:: image/DiagramaDesarrollo.PNG
 
-
+		En esta vista se puede ilustrar las principales clases que se implementaron en la Aplicación
+		Servicio Online PDF y en el web service, este prototipo no se implementó la gestion a la Base de Datos.
+		
 * 4. Vista Física:
 
 		En la Vista Física se representa como están distribuidos los componentes
